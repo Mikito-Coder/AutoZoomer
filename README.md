@@ -1,4 +1,4 @@
-# AutoZoomer
+# AutoZoomer 📆⌚
 
 ## Overview
 
